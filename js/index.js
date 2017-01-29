@@ -36,7 +36,7 @@ function runProgram() {
 
 			bottles -= 1
 
-	}, 50)
+	}, 400)
 
 
 }
